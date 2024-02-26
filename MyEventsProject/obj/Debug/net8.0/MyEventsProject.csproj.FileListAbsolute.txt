@@ -1,0 +1,15 @@
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\bin\Debug\net8.0\MyEventsProject.exe
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\bin\Debug\net8.0\MyEventsProject.deps.json
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\bin\Debug\net8.0\MyEventsProject.runtimeconfig.json
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\bin\Debug\net8.0\MyEventsProject.dll
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\bin\Debug\net8.0\MyEventsProject.pdb
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\obj\Debug\net8.0\MyEventsProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\obj\Debug\net8.0\MyEventsProject.AssemblyInfoInputs.cache
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\obj\Debug\net8.0\MyEventsProject.AssemblyInfo.cs
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\obj\Debug\net8.0\MyEventsProject.csproj.CoreCompileInputs.cache
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\obj\Debug\net8.0\MyEventsProject.sourcelink.json
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\obj\Debug\net8.0\MyEventsProject.dll
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\obj\Debug\net8.0\refint\MyEventsProject.dll
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\obj\Debug\net8.0\MyEventsProject.pdb
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\obj\Debug\net8.0\MyEventsProject.genruntimeconfig.cache
+c:\Users\rados\CSharp\xUnitMyEvents\xUnit-Testing-with-GitHub-and-Continuous-Integration-CI-\MyEventsProject\obj\Debug\net8.0\ref\MyEventsProject.dll
